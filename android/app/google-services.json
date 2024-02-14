@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856490422086",
+    "project_id": "evaluationappflutter",
+    "storage_bucket": "evaluationappflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856490422086:android:3add5fffa6b325266e7f47",
+        "android_client_info": {
+          "package_name": "anar.nagmet.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2slhPH0GRTqSGQZwXbQFnxJwRS0jttZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
